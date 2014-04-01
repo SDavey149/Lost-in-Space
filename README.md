@@ -17,3 +17,8 @@ TO-DO LIST
 * Improve Saucer AI - at the moment they're incredibly stupid. 
 * Add wider range of powerups. 
 * New sounds, especially for the ship so it doesn't sound like it's being propelled by farts. 
+
+References
+----------
+
+This game was only possible by lecture and lab material provided by Essex University via the CE218 module. 
