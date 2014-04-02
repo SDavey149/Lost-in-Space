@@ -5,20 +5,16 @@ Lost in Space is a simple game, destroy all the asteroids on each level and prog
 
 I'm not much of a game designer hence it's simplicity, this was originally intended as a submission for an assignment but I quite enjoyed making this game so I hope to expand it further. Lots of things to add and it certainly needs a lot of polishing too to improve how it looks. Basic functionality is there though. 
 
+Controls
+--------
 
+Movement - arrow keys
+Full screen - ALT+ENTER
+Toggle shield - 1
+Fire - spacebar
+Pause - Esc
 
-TO-DO LIST
-----------
-* Change Ship drawing to something 'better looking'. 
-* Change asteroid graphics to something 'better looking'.
-* Clean up collision code, some objects have unnecessary code in their "hittable" methods.
-* Add a main objective to the game.
-* Add walls and other objects to the game.
-* Improve Saucer AI - at the moment they're incredibly stupid. 
-* Add wider range of powerups. 
-* New sounds, especially for the ship so it doesn't sound like it's being propelled by farts. 
+Running the Game
+----------------
 
-References
-----------
-
-This game was only possible by lecture and lab material provided by Essex University via the CE218 module. 
+There is no JAR file available for this, the only way to run it currently is to download the class files from the "out" folder and then run from command line. Main class is located in the package "xpilot" called "XPilotGame.class".
