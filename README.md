@@ -8,11 +8,11 @@ I'm not much of a game designer hence it's simplicity, this was originally inten
 Controls
 --------
 
-Movement - arrow keys
-Full screen - ALT+ENTER
-Toggle shield - 1
-Fire - spacebar
-Pause - Esc
+* Movement - arrow keys
+* Full screen - ALT+ENTER
+* Toggle shield - 1
+* Fire - spacebar
+* Pause - Esc
 
 Running the Game
 ----------------
