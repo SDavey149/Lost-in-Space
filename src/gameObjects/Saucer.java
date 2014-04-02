@@ -39,10 +39,6 @@ public class Saucer extends GameObject {
             shootBullet();
             lastShot = 30;
         }
-        if (action.thrust == -1) {
-            //SoundManager.play(SoundManager.thrust);
-            //thrustParticles();
-        }
         if (lastShot > 0) lastShot--;
 
 
